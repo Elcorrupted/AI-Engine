@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+E:\Documents\School\5, Semester\5 AI\AI-project\AI framework 21.9.22\SDL_Framework21.0.0\Framework\Graph.cpp(134,14): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\School\5, Semester\5 AI\AI-project\AI framework 21.9.22\SDL_Framework21.0.0\Framework\Graph.cpp(207,20): warning C4018: '<': signed/unsigned mismatch
+  Framework.vcxproj -> E:\Documents\School\5, Semester\5 AI\AI-project\AI framework 21.9.22\SDL_Framework21.0.0\Debug\Framework.exe

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CharacterData>
+  
+  <CheeseData>
+    <BodyData pos.x="1.0" pos.y="1.0" pos.z="0.0" orientation="0.0"></BodyData>
+  </CheeseData>
+
+  <TrapData>
+    <BodyData pos.x="8.0" pos.y="8.0" pos.z="0.0" orientation="0.0"></BodyData>
+  </TrapData>
+
+  <AICharacterData>
+    <BodyData pos.x="1.0" pos.y="6.7" pos.z="0.0" orientation="-1.5"></BodyData>
+    <CharData health="2"></CharData>
+    <Components>
+      <Physics mass="100.0">
+        <Linear vel.x="0.0" vel.y="0.0" vel.z="0.0" accel.x="0.0" accel.y="0.0" accel.z="0.0" maxVel="13.0" maxAccel="1.0"></Linear>
+        <Angular rotation="0.0" maxRotation="1.5"></Angular>
+      </Physics>
+    </Components>
+  </AICharacterData>
+  
+</CharacterData>
